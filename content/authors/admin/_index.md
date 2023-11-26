@@ -75,5 +75,5 @@ superuser: true
 title: 
 ---
 
-I am a student in Sustainable Development at the University in Utrecht, with a focus on the energy sector. I am interested in data analysis and have skills in R and Python, as well as a good understanding of Excel. 
+I am a student in Sustainable Development at the University in Utrecht, with a focus on the energy sector. I am interested in data analysis and have basic skills in R and Python, as well as a high-level understanding of Excel. 
 {style="text-align: justify;"}

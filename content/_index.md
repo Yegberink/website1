@@ -51,29 +51,30 @@ sections:
   id: skills
 - block: experience
   content:
-    date_format: Jan 2006
+    date_format: 06 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
+    - company: Utrecht University
       company_url: ""
-      date_end: ""
-      date_start: "2021-01-01"
-      description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
+      date_end: "2023-10-01"
+      date_start: "2023-09-01"
+      description: TA in the course Sustainable Energy Supply. Responsibilities included teaching in tutorials, and guiding assignments.
+      location: Utrecht
+      title: Teaching assistant
+    - company: Utrecht University
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      date_end: "2023-07-01"
+      date_start: "2021-04-01"
+      description: TA in the course Regional Integration project. Responsibilities included preparation of fieldwork equipment and teaching students on how to use it.
+      location: Utrecht
+      title: Teaching assistant
+    - company: Compare My Solar
+      company_url: "https://www.comparemysolar.nl"
+      date_end: "2020-11-26"
+      date_start: "2021-10-25"
+      description: ""
+      location: Utrecht
+      title: Callcentre
+  
     title: Experience
   design:
     columns: "2"
@@ -84,8 +85,8 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Climate Change
+      tag: Climate Change
     - name: Other
       tag: Demo
     default_button_index: 0
@@ -111,14 +112,8 @@ sections:
       icon_pack: fab
       link: https://www.linkedin.com/in/yannick-egberink-0ba3781a8/
       name: Linkedin
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
-    subtitle: null
-    text: Hi, if you want to get in touch with me you can either use the contact form below or message me directly via Facebook, Linkedin, or yannickegberink@gmail.com
+    email: yannickegberink@gmail.com
+    text: Hi, if you want to get in touch with me you can message me  via Facebook, Linkedin, or email.
     title: Contact
   design:
     columns: "2"
