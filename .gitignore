@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#add some
+.DS_Store
+Thumbs.db
+.hugo_build.lock
+/public/
+/resources/
