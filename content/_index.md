@@ -1,5 +1,6 @@
 ---
 date: "2022-10-24"
+favicon: "website1/assets/media/favicon_io/favicon.ico"
 sections:
 - block: hero
   content:

@@ -6,6 +6,8 @@ theme: "theme-academic-cv"
 
 title: Yannick Egberink # Website name
 baseURL: 'https://yannickegberink.netlify.app' # Website URL
+favicon: "themes/theme-academic-cv/static/favicon-32x32.png"
+
 
 ############################
 ## LANGUAGE
