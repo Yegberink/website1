@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: Mr robot
+  theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: L
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'Website with information on Yannick Egberink'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
