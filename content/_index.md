@@ -77,7 +77,7 @@ sections:
     title: Experience
   design:
     columns: "2"
-    id: experience
+  id: experience
 
 - block: portfolio
   content:
@@ -101,39 +101,24 @@ sections:
 
 - block: contact
   content:
-    appointment_url: https://calendly.com
     autolink: true
     contact_links:
-    - icon: twitter
+    - icon: facebook
       icon_pack: fab
-      link: https://twitter.com/Twitter
-      name: DM Me
-    - icon: skype
+      link: https://www.facebook.com/profile.php?id=100004504816680
+      name: Facebook
+    - icon: linkedin
       icon_pack: fab
-      link: skype:echo123?call
-      name: Skype Me
-    - icon: video
-      icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
-    coordinates:
-      latitude: "37.4275"
-      longitude: "-122.1697"
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+      link: https://www.linkedin.com/in/yannick-egberink-0ba3781a8/
+      name: Linkedin
     form:
       formspree:
         id: null
       netlify:
         captcha: false
       provider: netlify
-    office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
     subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
+    text: Hi, if you want to get in touch with me you can either use the contact form below or message me directly via Facebook, Linkedin, or yannickegberink@gmail.com
     title: Contact
   design:
     columns: "2"

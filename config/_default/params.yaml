@@ -59,7 +59,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Yegberink/website1'
     content_dir: content
     branch: main
   avatar:
@@ -84,10 +84,6 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15
 
 # Extensions
 

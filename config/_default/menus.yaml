@@ -4,17 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 
-    url: #about
+  - name: Home
+    url: "#about"
     weight: 10
   - name: Skills
-    url: #skills
+    url: "#skills"
     weight: 20
   - name: Experience
-    url: #experience
+    url: "#experience"
     weight: 30
   - name: Contact
-    url: #contact
+    url: "#contact"
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
