@@ -87,15 +87,15 @@ sections:
       tag: '*'
     - name: Climate Change
       tag: Climate Change
-    - name: Other
-      tag: Demo
+    - name: Food
+      tag: Food
     default_button_index: 0
     filters:
       folders:
       - project
     title: Projects
   design:
-    columns: "1"
+    columns: "2"
     flip_alt_rows: false
     view: showcase
   id: projects
