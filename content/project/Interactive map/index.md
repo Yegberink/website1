@@ -19,3 +19,9 @@ This map was created during a course called Sustainable food systems. Above ther
 {{< rawhtml >}}
 <iframe src="featured.html" width="100%" height="500px"></iframe>
 {{< /rawhtml >}}
+
+Here is a map that shows the imports over time
+
+{{< rawhtml >}}
+<iframe src="tot_imports_map.html" width="100%" height="500px"></iframe>
+{{< /rawhtml >}}
