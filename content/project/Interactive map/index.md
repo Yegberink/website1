@@ -59,7 +59,7 @@ The Sankey diagrams provide information on the use of the different types of soy
 {{< rawhtml >}}
 <iframe src="https://soy-balance-eu.onrender.com" width=100% height=900"></iframe>
 {{< /rawhtml >}}
-<span style="font-size: smaller;">*Sankey diagram for the flows of soy in the EU. __It can take a while for the figure to load__. [Click here to go to larger representation  of the graph](https://soy-balance-eu.onrender.com)*</span> 
+<span style="font-size: smaller;">*Figure 4: Sankey diagram for the flows of soy in the EU. Change the year with the dropdown menu, and add data on the origin of the soy in the top right. __It can take a while for the figure to load__. [Click here to go to larger representation  of the graph](https://soy-balance-eu.onrender.com)*</span> 
 
 
 __Conclusion__
