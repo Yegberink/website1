@@ -38,7 +38,7 @@ To present all the information that is available in the datasets in a comprehens
 {{< rawhtml >}}
 <iframe src="https://soy-trade-europe.onrender.com" width=100% height=760"></iframe>
 {{< /rawhtml >}}
-<span style="font-size: smaller;">*Figure 1: soy trade with the EU, and own production of soy in the EU. Different soy products can be selected in the dropdown menu, and a different flow type can be selected. The slider below the graph can be used to change the year. The results can either be presented on a map or in a bar chart. __It can take a while for the figure to load__. [Click here to go to larger representation  of the graph](https://soy-trade-europe.onrender.com)*</span> 
+<span style="font-size: smaller;">*Figure 1: soy trade with the EU, and own production of soy in the EU. Different soy products can be selected in the dropdown menu, and a different flow type can be selected. The slider below the graph can be used to change the year. The results can either be presented on a map or in a bar chart. __It can take a while for the figure to load as I use a free web service__. [Click here to go to larger representation  of the graph](https://soy-trade-europe.onrender.com)*</span> 
 
 For both soybean meal and whole soybeans, the results are comparable. Interestingly, when looking at the EU imports of soy oil the picture changes. The EU imports most of its soy oil from the United Kingdom, followed by other European countries. There are, however, two big limitations in the data that might influence this result. Firstly, the import data are direct imports and do not specify the original source of the soy. For example, for some years Norway is one of the seven largest exporters of soy to the EU whereas they do not have any own production of soybeans. They have sourced their soy somewhere else, which is not shown in the figures here. Secondly, soybean oil is a processed product and therefore the origin of the oil does not have to be the same as the origin of the soybeans. The information on this is not presented in the current graphs, and could hinder the analysis of soy use in the EU as it might, for example, underrepresent the import dependency on only a select group of countries, which is already large as shown in figure 2. 
 
@@ -61,7 +61,7 @@ The Sankey diagrams provide information on the use of the different types of soy
 {{< rawhtml >}}
 <iframe src="https://soy-balance-eu.onrender.com" width=100% height=900"></iframe>
 {{< /rawhtml >}}
-<span style="font-size: smaller;">*Figure 4: Sankey diagram for the flows of soy in the EU. Change the year with the dropdown menu, and add data on the origin of the soy in the top right. __It can take a while for the figure to load__. [Click here to go to larger representation  of the graph](https://soy-balance-eu.onrender.com)*</span> 
+<span style="font-size: smaller;">*Figure 4: Sankey diagram for the flows of soy in the EU. Change the year with the dropdown menu, and add data on the origin of the soy by selecting "with import source". __It can take a while for the figure to load as I use a free web service__. [Click here to go to larger representation  of the graph](https://soy-balance-eu.onrender.com)*</span> 
 
 
 __Conclusion__
