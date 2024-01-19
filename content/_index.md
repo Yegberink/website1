@@ -70,8 +70,8 @@ sections:
       title: Teaching assistant
     - company: Compare My Solar
       company_url: "https://www.comparemysolar.nl"
-      date_end: "2020-11-26"
-      date_start: "2021-10-25"
+      date_start: "2020-11-26"
+      date_end: "2021-10-25"
       description: ""
       location: Utrecht
       title: Callcentre
